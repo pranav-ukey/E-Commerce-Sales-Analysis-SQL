@@ -12,9 +12,3 @@ To provide actionable insights for optimizing sales strategies and improving cus
 - Average Delivery Time for Pet Shop Orders
 - Customer Insights from São Paulo
 - Shipping Days vs Review Scores
-
-## Usage
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository_url>
-
