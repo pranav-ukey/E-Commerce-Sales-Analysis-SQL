@@ -10,5 +10,5 @@ To provide actionable insights for optimizing sales strategies and improving cus
 - Weekday vs Weekend Payment Statistics
 - High-Value Orders with Credit Card Payments
 - Average Delivery Time for Pet Shop Orders
-- Customer Insights from São Paulo
+- Customer Insights from Sao Paulo
 - Shipping Days vs Review Scores
